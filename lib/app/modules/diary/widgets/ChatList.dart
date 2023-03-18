@@ -3,10 +3,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:school_violence_app/app/core/values/app_colors.dart';
-<<<<<<< HEAD
-=======
 import 'package:school_violence_app/app/modules/sign_in/sign_in_controller.dart';
->>>>>>> caf10c6 (finish chat)
 
 import '../../connect/connect_controller.dart';
 import '../screens/chatscreen.dart';
@@ -19,11 +16,7 @@ class ChatList extends StatefulWidget {
 }
 
 class _ChatListState extends State<ChatList> {
-<<<<<<< HEAD
-  final ConnectController ctrl = Get.find<ConnectController>();
-=======
   final SignInController ctrl = Get.find<SignInController>();
->>>>>>> caf10c6 (finish chat)
   var messages = [];
   @override
   void initState() {
@@ -52,10 +45,6 @@ class _ChatListState extends State<ChatList> {
             padding: const EdgeInsets.all(8),
             itemCount: messages.length,
             itemBuilder: (BuildContext context, int index) {
-<<<<<<< HEAD
-=======
-
->>>>>>> caf10c6 (finish chat)
               return GestureDetector(
                 onTap: () {
                   Get.to(() => ChatScreen(
@@ -70,11 +59,7 @@ class _ChatListState extends State<ChatList> {
                   height: 50,
                   child: Center(
                     child: Text(
-<<<<<<< HEAD
-                      'Chat room',
-=======
                       'Chat room ${index}',
->>>>>>> caf10c6 (finish chat)
                       style: TextStyle(color: AppColors.white, fontSize: 18),
                     ),
                   ),

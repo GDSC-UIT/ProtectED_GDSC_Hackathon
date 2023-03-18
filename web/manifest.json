@@ -1,6 +1,6 @@
 {
-    "name": "protected",
-    "short_name": "protected",
+    "name": "school_violence_app",
+    "short_name": "school_violence_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

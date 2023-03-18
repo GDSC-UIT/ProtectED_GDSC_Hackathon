@@ -7,6 +7,7 @@ import 'package:school_violence_app/app/core/values/app_colors.dart';
 import 'package:school_violence_app/app/core/values/app_text_style.dart';
 import 'package:school_violence_app/app/data/services/auth_services.dart';
 import 'package:school_violence_app/app/modules/sign_in/sign_in_controller.dart';
+import 'package:school_violence_app/app/routes/app_routes.dart';
 
 class SignInButton extends StatelessWidget {
   SignInButton({
@@ -59,6 +60,7 @@ class SignInButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return ElevatedButton(
       onPressed: () async {
+        Get.toNamed(AppRoutes.home);
         if (_formKey.currentState!.validate()) {
           dynamic result = await _auth.signInWithEmailAndPassword(
             signInCtrl.emailController.text,

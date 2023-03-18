@@ -54,7 +54,8 @@ class DefaultFirebaseOptions {
     appId: '1:299051492096:android:cb4d724b03b8b9baa289e5',
     messagingSenderId: '299051492096',
     projectId: 'school-violence-d8038',
-    databaseURL: 'https://school-violence-d8038-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL:
+        'https://school-violence-d8038-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'school-violence-d8038.appspot.com',
   );
 
@@ -63,10 +64,13 @@ class DefaultFirebaseOptions {
     appId: '1:299051492096:ios:7544fdeee4ffdf53a289e5',
     messagingSenderId: '299051492096',
     projectId: 'school-violence-d8038',
-    databaseURL: 'https://school-violence-d8038-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL:
+        'https://school-violence-d8038-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'school-violence-d8038.appspot.com',
-    androidClientId: '299051492096-471dvugn7ds6jrtenu2iivf785fta4br.apps.googleusercontent.com',
-    iosClientId: '299051492096-1igc2fo4rajtd7ebuntf4g73cgs5s9fj.apps.googleusercontent.com',
+    androidClientId:
+        '299051492096-471dvugn7ds6jrtenu2iivf785fta4br.apps.googleusercontent.com',
+    iosClientId:
+        '299051492096-1igc2fo4rajtd7ebuntf4g73cgs5s9fj.apps.googleusercontent.com',
     iosBundleId: 'com.example.schoolViolenceApp',
   );
 }

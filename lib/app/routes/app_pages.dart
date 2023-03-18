@@ -1,4 +1,6 @@
 import 'package:get/get.dart';
+import 'package:school_violence_app/app/modules/home_page/home_page_binding.dart';
+import 'package:school_violence_app/app/modules/home_page/screens/home_page.dart';
 import 'package:school_violence_app/app/modules/intro/intro_binding.dart';
 import 'package:school_violence_app/app/modules/intro/screens/intro_screen.dart';
 import 'package:school_violence_app/app/modules/intro/screens/loading_screen.dart';
@@ -30,5 +32,10 @@ abstract class AppPages {
       page: () => SignInPage(),
       binding: SignInBinding(),
     ),
+    GetPage(
+        name: AppRoutes.home,
+        page: () => HomePage(),
+        binding: HomePageBinding(),
+        transition: Transition.noTransition),
   ];
 }

@@ -60,7 +60,6 @@ class SignInButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return ElevatedButton(
       onPressed: () async {
-        Get.toNamed(AppRoutes.home);
         if (_formKey.currentState!.validate()) {
           dynamic result = await _auth.signInWithEmailAndPassword(
             signInCtrl.emailController.text,

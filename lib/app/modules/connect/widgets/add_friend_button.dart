@@ -100,7 +100,7 @@ class AddFriendButton extends StatelessWidget {
                         color: AppColors.primaryColor,
                       ),
                     )
-                  : Icon(Icons.child_friendly),
+                  : Icon(Icons.person),
         );
       },
     );

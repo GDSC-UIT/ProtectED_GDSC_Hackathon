@@ -36,5 +36,5 @@ Dự án được xây dựng và triển khai thành một ứng dụng trên �
   * Firebase
   * Google Cloud Platform	
 
-### 6. Kết luận
+## Kết luận
 ProtectED là một dự án được xây dựng nhằm mục đích ngăn chặn tình trạng bạo lực học đường đang ngày càng phổ biến hiện nay bằng cách xây dựng cuộc trò chuyện ẩn danh giữa học sinh và thầy cô, chuyên gia để mọi người dễ dàng chia sẻ câu chuyện của chính mình và được phản hồi bằng các góc nhìn khác nhau để giải quyết vấn đề mà không xảy ra bạo lực học đường. Bên cạnh đó, dự án cũng cung cấp chức năng hỗ trợ khi có tình huống xấu xảy ra, giúp người dùng có thể gửi thông điệp cầu cứu đến những người bạn của mình hoặc có thể được hỗ trợ tìm đến những vị trí gần nhất có thể gọi người trợ giúp ngay lập tức.

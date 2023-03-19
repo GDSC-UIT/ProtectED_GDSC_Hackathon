@@ -6,15 +6,15 @@
 ProtectED - Ứng dụng hỗ trợ ngăn chặn tình trạng bạo lực học đường.
 
 ### 2. Mô tả ý tưởng
-	Đây là một dự án được xây dựng dựa trên thực trạng bạo lực học đường ngày nay đang ngày càng phổ biến diễn ra cả trong và ngoài trường học. Dự án mong muốn mang đến một số giải pháp giúp cho các bạn học sinh có thể được giúp đỡ, bảo vệ cũng như được giáo dục trong một môi trường lành mạnh, nói không với bạo lực học đường.
+	*Đây là một dự án được xây dựng dựa trên thực trạng bạo lực học đường ngày nay đang ngày càng phổ biến diễn ra cả trong và ngoài trường học. Dự án mong muốn mang đến một số giải pháp giúp cho các bạn học sinh có thể được giúp đỡ, bảo vệ cũng như được giáo dục trong một môi trường lành mạnh, nói không với bạo lực học đường.
 
 ### 3. Mục tiêu Phát triển bền vững mà nhóm hướng tới
 #### Good Health and Wellbeing (3): 
-	+ Học đường là môi trường mà các bạn học sinh được tiếp xúc với từng tính cách, từng con người khác nhau, nếu không may tiếp xúc với những nguồn tiêu cực có thể ảnh hưởng xấu đến sức khỏe tâm lý của các bạn. ProtectED giúp cho giáo viên, hay thậm chí là phụ huynh có thể ẩn danh, dễ dàng chia sẻ với các bạn học sinh để phát hiện và ngăn chặn kịp thời những nguồn tiêu cực ấy. 
+	*Học đường là môi trường mà các bạn học sinh được tiếp xúc với từng tính cách, từng con người khác nhau, nếu không may tiếp xúc với những nguồn tiêu cực có thể ảnh hưởng xấu đến sức khỏe tâm lý của các bạn. ProtectED giúp cho giáo viên, hay thậm chí là phụ huynh có thể ẩn danh, dễ dàng chia sẻ với các bạn học sinh để phát hiện và ngăn chặn kịp thời những nguồn tiêu cực ấy. 
 #### Quality Education (4): 
-	+ ProtectED giúp các bạn học sinh, cũng như những giáo viên của trường dễ dàng tiếp cận đến những nguồn thông tin giúp cho việc nhận định, phân tích các vấn đề với đầy đủ góc nhìn, giúp cả học sinh và giáo viên giải quyết vấn đề mình gặp phải được tốt hơn, tránh mọi trường hợp xảy ra bạo lực, đảm bảo môi trường giáo dục lành mạnh. 
+	*ProtectED giúp các bạn học sinh, cũng như những giáo viên của trường dễ dàng tiếp cận đến những nguồn thông tin giúp cho việc nhận định, phân tích các vấn đề với đầy đủ góc nhìn, giúp cả học sinh và giáo viên giải quyết vấn đề mình gặp phải được tốt hơn, tránh mọi trường hợp xảy ra bạo lực, đảm bảo môi trường giáo dục lành mạnh. 
 #### Peace, Justice and Strong institutions (16):
-	+ ProtectED cung cấp môi trường lành mạnh cho các bạn học sinh có thể dễ dàng kết nối với nhau, xây dựng nên một tập thể nói không với bạo lực học đường, mọi người có thể hỗ trợ lẫn nhau ngay lập tức khi một cá nhân bất kỳ gặp phải một vấn đề nào đó.
+	*ProtectED cung cấp môi trường lành mạnh cho các bạn học sinh có thể dễ dàng kết nối với nhau, xây dựng nên một tập thể nói không với bạo lực học đường, mọi người có thể hỗ trợ lẫn nhau ngay lập tức khi một cá nhân bất kỳ gặp phải một vấn đề nào đó.
 
 
 ### 4. Chi tiết vấn đề, giải pháp mà dự án của bạn đang hướng đến 
